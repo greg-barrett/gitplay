@@ -5,3 +5,7 @@ end
 def sub(a-b)
     a-b
 end
+
+def divide(a, b)
+    a/b
+end
