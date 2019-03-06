@@ -9,6 +9,10 @@ end
 def divide(a, b)
     a/b
 end
+
 def multi(a,b)
     a*b
+
+def square(a)
+    a**2
 end
